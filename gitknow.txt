@@ -1,0 +1,3 @@
+ I am laering git commands 
+to know more abou the linux servers and git things
+
