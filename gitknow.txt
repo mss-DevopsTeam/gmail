@@ -1,3 +1,5 @@
  I am laering git commands 
 to know more abou the linux servers and git things
 updating line sin the git know file xt file this is updated
+updated this content in gitknow file from developmet branch
+
